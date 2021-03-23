@@ -1,0 +1,25 @@
+.menu:hover {
+    background-color: rgb(245, 225, 225);
+    color: black !important;
+}
+.menu {
+    color: rgba(255, 255, 255, 0.685) !important;
+    cursor: default;
+}
+.surname,
+.name {
+    color: white;
+    cursor: default;
+    font-family: Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+.no-cursor{
+    cursor: default;
+}
+body{
+    font-size: 1.15rem;
+    cursor: default;
+}
+
+.web-devs{
+    text-decoration: underline;
+}
